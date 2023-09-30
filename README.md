@@ -1,5 +1,5 @@
 ### Hello there, 👋
-    My Name is Diaa I'm a junior Data Analyst 
+    My Name is Diaa I'm a learning Backend
 <!--
 **Diaa0011/Diaa0011** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
