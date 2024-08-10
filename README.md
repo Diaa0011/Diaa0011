@@ -10,6 +10,6 @@
 </p> 
 
 
-- 👨‍💻 An undergraduate CS student , I'm constantly learning and exploring new technologies to improve my skills.
+- 👨‍💻 A Fresh graduate CS student , I'm constantly learning and exploring new technologies to improve my skills.
 - 🏁🏎️🖥️ TypeMaster at Typing Racer (more than 65 wpm)
 
